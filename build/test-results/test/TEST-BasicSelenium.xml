@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BasicSelenium" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-28T20:16:48" hostname="Dell" time="3.358">
+  <properties/>
+  <testcase name="openHomePage()" classname="BasicSelenium" time="3.358"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 81.0.4044.69 (6813546031a4bc83f717a2ef7cd4ac6ec1199132-refs/branch-heads/4044@{#776}) on port 17449
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Apr 28, 2020 11:16:46 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+[1588105009.032][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588105009.134][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588105009.702][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588105009.965][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588105010.188][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588105010.488][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588105010.590][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588105010.696][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588105010.798][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588105010.900][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588105011.003][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588105011.106][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588105011.703][SEVERE]: Timed out receiving message from renderer: 0.100
+]]></system-err>
+</testsuite>
